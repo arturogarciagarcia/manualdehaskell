@@ -1,0 +1,1 @@
+numeroMayor x y = if x > y then "es mayor" else "es menor"

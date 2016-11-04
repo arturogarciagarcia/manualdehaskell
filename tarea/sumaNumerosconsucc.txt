@@ -1,0 +1,1 @@
+sumaNumeros x y = 5+(succ(5-y)*x)
